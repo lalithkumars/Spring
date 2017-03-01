@@ -5,6 +5,6 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans
     http://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
 	<bean id="greeting" class="com.lalith.SpringDemo.Greeting">
-		<property name="message" value="Spring Framework" />
+		<property name="message" value="Spring Framework and Git" />
 	</bean>
 </beans>
